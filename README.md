@@ -2,9 +2,6 @@
 *Make Open Easy*
 
 [![LICENSE](https://img.shields.io/badge/license-Apache-blue.svg)](https://github.com/google/MOE/blob/master/LICENSE)
-[![Travis CI](https://img.shields.io/travis/google/MOE.svg)](https://travis-ci.org/google/MOE)
-[![GitHub Issues](https://img.shields.io/github/issues/google/MOE.svg)](https://github.com/google/MOE/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/google/MOE.svg)](https://github.com/google/MOE/pulls)
 
 ## Introduction
 

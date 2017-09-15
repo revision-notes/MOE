@@ -11,7 +11,7 @@
     A tool that synchronizes multiple source code repositories, allowing for migration of commits,
     mapping of folders, scrubbing and other transformation of data (and commit metadata), etc.
   </description>
-  
+
   <dependencies>
     <dependency>
       <groupId>joda-time</groupId>
@@ -74,7 +74,7 @@
       <groupId>com.google.truth</groupId>
       <artifactId>truth</artifactId>
     </dependency>
-   <dependency>
+    <dependency>
       <groupId>org.easymock</groupId>
       <artifactId>easymock</artifactId>
     </dependency>
@@ -103,7 +103,7 @@
                   <mainClass>com.google.devtools.moe.client.Moe</mainClass>
                 </transformer>
               </transformers>
-             <artifactSet>
+              <artifactSet>
                 <excludes>
                   <exclude>*:auto-value</exclude>
                   <exclude>*:auto-factory</exclude>
@@ -111,7 +111,7 @@
                   <exclude>*:junit</exclude>
                   <exclude>org.hamcrest:*</exclude>
                 </excludes>
-             </artifactSet>
+              </artifactSet>
             </configuration>
           </execution>
         </executions>
